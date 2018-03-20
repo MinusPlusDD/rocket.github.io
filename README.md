@@ -8,8 +8,8 @@ ShadowRocket is a Smart Stable Quick ProxyUtil
 Support SS
 
 Support Aead Cipher
-    * CHACHA20-POLY1305
-    * CHACHA20-IETF-POLY1305
+* CHACHA20-POLY1305
+* CHACHA20-IETF-POLY1305
     * AES-128-GCM
     * AES-192-GCM
     * AES-256-GCM
