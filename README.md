@@ -10,9 +10,9 @@ Support SS
 Support Aead Cipher
 * CHACHA20-POLY1305
 * CHACHA20-IETF-POLY1305
-    * AES-128-GCM
-    * AES-192-GCM
-    * AES-256-GCM
+* AES-128-GCM
+* AES-192-GCM
+* AES-256-GCM
 
 You can add proxy configarations via scan qrCode or manuly by your self
 
