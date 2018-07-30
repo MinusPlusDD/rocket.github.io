@@ -1,7 +1,7 @@
 ## ShadowRocket
 
 
- ![image](https://raw.githubusercontent.com/MinusPlusDD/rocket.github.io/master/icon_256x256.png)
+ ![image](https://raw.githubusercontent.com/MinusPlusDD/rocket.github.io/master/icon_256.png)
  
 ShadowRocket is a high speed network proxy util
 
