@@ -1,13 +1,17 @@
-## Json2Code
+## ShadowRocket
 
 
  ![image](https://raw.githubusercontent.com/MinusPlusDD/rocket.github.io/master/icon_256x256.png)
  
- 
-Json2Code is a great json convert util
-It can convert json data into code class
-It supports many code category
-Enjoy it
+ShadowRocket is a high speed network proxy util
+
+Support All the encrypt method 
+
+Support Subscribed feature
+
+Support Rule based request manager
+
+It's easy to use
 
 
 # Support Email
