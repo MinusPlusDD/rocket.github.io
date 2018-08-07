@@ -1,17 +1,14 @@
-## ShadowRocket
+## Json2code
 
 
- ![image](https://raw.githubusercontent.com/MinusPlusDD/rocket.github.io/master/icon_256.png)
- 
-ShadowRocket is a high speed network proxy util
 
-Support All the encrypt method 
+Json2code is a great json convert util
 
-Support Subscribed feature
+It can convert json data into code class
 
-Support Rule based request manager
+It supports many code category
 
-It's easy to use
+Enjoy it
 
 
 # Support Email
